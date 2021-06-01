@@ -56,7 +56,7 @@ public class Vertice {
     public String toString() {
         String s = String.valueOf(id);
         s = Integer.toString(id);
-        return s;
+        return nombre;
     }
 
     

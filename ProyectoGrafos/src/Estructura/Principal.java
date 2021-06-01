@@ -286,7 +286,7 @@ public class Principal extends javax.swing.JFrame {
             }
         });
 
-        jb_prim.setText("Encontrar Rutas Cortas");
+        jb_prim.setText("Ciclos");
         jb_prim.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jb_primActionPerformed(evt);
